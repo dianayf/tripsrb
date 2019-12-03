@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'mongoid', '~> 6.0'
 gem 'bson_ext'
+gem 'json'
 
 group :development, :test do
 end
